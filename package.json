@@ -1,0 +1,17 @@
+{
+  "name": "koa-flow-declarations",
+  "version": "0.1.0",
+  "description": "koa flow declarations",
+  "keywords": [
+    "flow",
+    "flowtype"
+  ],
+  "main": "index.js",
+  "repository": "christophehurpeau/koa-flow-declarations",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/koa-flow-declarations/issues"
+  },
+  "homepage": "https://github.com/christophehurpeau/koa-flow-declarations#readme"
+}
